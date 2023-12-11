@@ -2,7 +2,7 @@
 
 Hello, my name is Joey, you can also call me Jay.
 
-If you wanna skip introductions and go straight to my repos, click [here](#projects).
+If you wanna skip introductions and go straight to my repos, click [here](#https://github.com/Donosco?tab=repositories).
 <!--
 **Donosco/Donosco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
