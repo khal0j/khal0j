@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🙋 I am
 
-Currently I am following a double degree program in [Ecole des Mines de Saint Etienne](https://www.ntu.edu.sg/Pages/home.aspx) and [The Lebanese University Faculty of Engineering](https://www.unisg.ch/en). I am majoring in Computer Science and telecommunications engineering.
+Currently I am following a double degree program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and [The Lebanese University Faculty of Engineering](https://www.ulfg.edu.lb). I am majoring in Computer Science and telecommunications engineering.
 
 🌐 Idiomas
 
