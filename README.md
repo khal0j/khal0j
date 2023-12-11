@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, my name is Joey, you also call me Jay.
+Hello, my name is Joey, you can also call me Jay.
 
 If you wanna skip introductions and go straight to my repos, click [here](#projects).
 <!--
