@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 Hello, my name is Joey, you can also call me Jay.
 
