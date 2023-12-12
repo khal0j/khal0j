@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙋 I am
+### 🙋 I am
 
 Currently I am following a double degree program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and [The Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/). I am majoring in Computer Science and telecommunications engineering.
 
-🌐 Idiomas
+### 🌐 Idiomas
 
 I speak Arabic as it is my mother tongue. I also speak French and English fluently. Currently, I am studying Spanish.
 
-🖥️ Programming Languages
+### 🖥️ Programming Languages
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,7 +35,7 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 
-🛠️ Technologies and Tools
+### Technologies and Tools
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
@@ -45,14 +45,14 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
 
-📚 I am currently learning
+### 📚 I am currently learning
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=react)
 ![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
 
-📫 You can reach me:
+### 📫 You can reach me here:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/joey-khalaf/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram)](https://www.instagram.com/khall.af/)
