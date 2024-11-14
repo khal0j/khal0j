@@ -8,7 +8,7 @@ If you wanna skip introductions and go straight to my repos, click [here](https:
 
 Currently I am following a double degree program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and [The Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/). I am majoring in Telecommunications and Software engineering.
 
-Today, I am working as a software engineer intern at [Infineon Technologies](https://infineon.com/), assisting in the development of a cross-platform software framework used in the process of component validation.
+Today, I am working as a software engineer intern at [Infineon Technologies](https://www.infineon.com/), assisting in the development of a cross-platform software framework used in the process of component validation.
 
 ### 🌐 Idiomas
 
