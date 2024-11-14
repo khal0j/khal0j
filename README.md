@@ -25,18 +25,18 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ### Technologies and Tools
-[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)(#)
-![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)(#)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)(#)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=flat&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio)
-![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)(#)
+![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)(#)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 
 
 
