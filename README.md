@@ -6,7 +6,7 @@ If you wanna skip introductions and go straight to my repos, click [here](https:
 
 ### 🙋 I am
 
-Currently I am following a double degree program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and [The Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/). I am majoring in Telecommunications and Software engineering.
+Currently I am following an engineering program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and am freshly gradutaed from [The Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/). I am majoring in Telecommunications and Software engineering.
 
 Today, I am working as a software engineer intern at [Infineon Technologies](https://www.infineon.com/), assisting in the development of a cross-platform software framework used in the process of component validation.
 
@@ -37,6 +37,8 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
+![GitLab](https://img.shields.io/badge/Jira-0052CC?logo=gitlab&logoColor=fff)
+![Jenkins](https://img.shields.io/badge/Jira-0052CC?logo=jenkins&logoColor=fff)
 
 
 
