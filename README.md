@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, my name is Joey, you can also call me Jay.
+I'm Joey, you can also call me Jay.
 
 If you wanna skip introductions and go straight to my repos, click [here](https://github.com/khal0j?tab=repositories).
 
@@ -19,7 +19,7 @@ Today, I am working as a software engineer intern at [Infineon Technologies](htt
 
 ### 🏋️ Project I'm proud of:
 
-I helped kick off an **Automated Plugin Generator** from scratch to production! 🚀 It's part of our framework, auto-generating full C# class libraries using user input and shipping them as NuGet packages with a custom CI/CD setup. I tackled the backend, participated inn the  database design as well as the API implementation. 
+I helped kick off an **Automated Plugin Generator** from scratch to production! 🚀 It's part of our framework, auto-generating full C# class libraries using user input and shipping them as NuGet packages with a custom CI/CD setup. I tackled the backend, participated in the database design and as well helped in the API implementation. 
 
 ### 🌐 Idiomas
 
