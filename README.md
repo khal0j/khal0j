@@ -27,13 +27,18 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 
 ### 🖥️ Programming Languages
 
-
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c-sharp)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+#### Currently exploring
+
+![Vue3](https://img.shields.io/badge/-Vue3-000000?style=flat&logo=vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxtdotjs)
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-000000?style=flat&logo=dotnet)
 
 ### Technologies and Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
