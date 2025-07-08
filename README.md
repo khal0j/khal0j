@@ -10,6 +10,17 @@ Currently I am following an engineering program in [Ecole des Mines de Saint Eti
 
 Today, I am working as a software engineer intern at [Infineon Technologies](https://www.infineon.com/), assisting in the development of a cross-platform software framework used in the process of component validation.
 
+### 💡 What i do as a full-time **intern**:
+- 🧩 Craft a **plugin system** for our software framework
+- 🚀 Maintain CI/CD pipelines
+- 🔌 Automate plugin **generation**
+- 💻 Build desktop apps along with their installers supporting patching and updating
+- 🌐 Work on an **ASP.NET Core API**
+
+### 🏋️ Project I'm proud of:
+
+I helped kick off an **Automated Plugin Generator** from scratch to production! 🚀 It's part of our framework, auto-generating full C# class libraries using user input and shipping them as NuGet packages with a custom CI/CD setup. I tackled the backend, participated inn the  database design as well as the API implementation. 
+
 ### 🌐 Idiomas
 
 I speak Arabic as it is my mother tongue. I also speak French and English fluently. Currently, I am studying Spanish and Portuguese.
