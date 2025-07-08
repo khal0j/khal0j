@@ -38,7 +38,7 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
 ![GitLab](https://img.shields.io/badge/GitLab-0052CC?logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?logo=jenkins)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins)
 
 
 
