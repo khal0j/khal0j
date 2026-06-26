@@ -34,8 +34,8 @@ I was responsible for much of the backend development, contributed to the databa
 - 🇱🇧 Arabic (Native)
 - 🇬🇧 English (Fluent)
 - 🇫🇷 French (Fluent)
-- 🇪🇸 Currently learning Spanish
-- 🇵🇹 Currently learning Portuguese
+- 🇩🇪 Currently learning German
+- 🐉 Currently learning High Valyrian
 
 ### 🖥️ Programming Languages
 
