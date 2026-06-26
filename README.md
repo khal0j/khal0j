@@ -1,29 +1,41 @@
 ## Hi there 👋
 
-I'm Joey, you can also call me Jay.
+I'm Joey, but you can also call me Jay.
 
-If you wanna skip introductions and go straight to my repos, click [here](https://github.com/khal0j?tab=repositories).
+If you want to skip the introduction and go straight to my repositories, click [here](https://github.com/khal0j?tab=repositories).
 
-### 🙋 I am
+### 🙋 About Me
 
-Currently I am following an engineering program in [Ecole des Mines de Saint Etienne](https://www.mines-stetienne.fr/) and am freshly gradutaed from [The Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/). I am majoring in Telecommunications and Software engineering.
+I'm an **AI & Software Engineer** passionate about building intelligent applications, scalable backend systems, and developer tools. I enjoy combining modern AI technologies with solid software engineering practices to create production-ready solutions.
 
-Today, I am working as a software engineer intern at [Infineon Technologies](https://www.infineon.com/), assisting in the development of a cross-platform software framework used in the process of component validation.
+I graduated in Telecommunications and Software Engineering from the [Lebanese University Faculty of Engineering](http://www.ulfg.ul.edu.lb/) and completed an engineering program at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/).
 
-### 💡 What i do as a full-time **intern**:
-- 🧩 Craft a **plugin system** for our software framework
-- 🚀 Maintain CI/CD pipelines
-- 🔌 Automate plugin **generation**
-- 💻 Build desktop apps along with their installers supporting patching and updating
-- 🌐 Work on an **ASP.NET Core API**
+My professional journey started as a Software Engineer Intern at **Infineon Technologies**, where I contributed to the development of a cross-platform software framework used for component validation. After graduation, I worked briefly as a software engineering consultant before transitioning into my current role as a full-time **AI & Software Engineer**.
 
-### 🏋️ Project I'm proud of:
+### 💡 What I do
 
-I helped kick off an **Automated Plugin Generator** from scratch to production! 🚀 It's part of our framework, auto-generating full C# class libraries using user input and shipping them as NuGet packages with a custom CI/CD setup. I tackled the backend, participated in the database design and as well helped in the API implementation. 
+- 🤖 Build AI-powered applications using LLMs and Retrieval-Augmented Generation (RAG)
+- 🧠 Develop AI agents and intelligent automation workflows
+- 💻 Design scalable backend services with ASP.NET Core
+- 🌐 Build modern web applications using Vue 3, Nuxt, and TypeScript
+- 📦 Design software architectures and developer tools
+- 🐳 Deploy and maintain applications using modern DevOps practices
 
-### 🌐 Idiomas
+### 🏋️ Project I'm Proud Of
 
-I speak Arabic as it is my mother tongue. I also speak French and English fluently. Currently, I am studying Spanish and Portuguese.
+I helped kick off an **Automated Plugin Generator** from scratch to production! 🚀
+
+The project became part of our software framework, automatically generating complete C# class libraries from user input and packaging them as NuGet packages through a custom CI/CD pipeline.
+
+I was responsible for much of the backend development, contributed to the database design, and helped implement the ASP.NET Core API powering the system.
+
+### 🌍 Languages
+
+- 🇱🇧 Arabic (Native)
+- 🇬🇧 English (Fluent)
+- 🇫🇷 French (Fluent)
+- 🇪🇸 Currently learning Spanish
+- 🇵🇹 Currently learning Portuguese
 
 ### 🖥️ Programming Languages
 
@@ -34,34 +46,62 @@ I speak Arabic as it is my mother tongue. I also speak French and English fluent
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-#### Currently exploring
+### 🤖 Currently Exploring
 
-![Vue3](https://img.shields.io/badge/-Vue3-000000?style=flat&logo=vuedotjs)
-![Nuxt](https://img.shields.io/badge/-Nuxt-000000?style=flat&logo=nuxtdotjs)
-![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-000000?style=flat&logo=dotnet)
+![Model Context Protocol](https://img.shields.io/badge/-Model%20Context%20Protocol-000000?style=flat)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-000000?style=flat)
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-000000?style=flat)
+![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-000000?style=flat)
+![Knowledge Graphs](https://img.shields.io/badge/-Knowledge%20Graphs-000000?style=flat)
 
-### Technologies and Tools
+### 🛠️ Technologies & Tools
+
+#### 🤖 AI & LLM
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+
+#### ⚙️ Backend
+
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?logo=dotnet&logoColor=fff)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=fff)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)
+
+#### 🎨 Frontend
+
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+#### 🗄️ Databases & Messaging
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white)
+
+#### 🚀 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
-![Rider](https://img.shields.io/badge/Rider-000?logo=rider&logoColor=fff)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=android-studio)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
-![GitLab](https://img.shields.io/badge/GitLab-0052CC?logo=gitlab)
-![Jenkins](https://img.shields.io/badge/Jenkins-FFFFFF?logo=jenkins)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
+#### 💻 Development
 
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
+![Rider](https://img.shields.io/badge/Rider-000000?logo=rider&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
-### 📫 You can reach me here:
+### 📫 Connect with me
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin)](https://www.linkedin.com/in/joey-khalaf/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram)](https://www.instagram.com/khall.af/)
 
 
 
